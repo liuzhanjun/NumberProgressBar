@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberProgressBar</string>
+    <string name="finish">ProgressBar is finished.</string>
+    <string name="title">一花一世界</string>
+</resources>
